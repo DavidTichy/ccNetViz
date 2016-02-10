@@ -1,0 +1,3550 @@
+{
+  "nodes": {
+    "77660": {
+      "label": "HIST2H4gene",
+      "style": "internal"
+    },
+    "77661": {
+      "label": "ILIB_IL1R1_MYD88_IRAK1_IRAK4",
+      "style": "internal"
+    },
+    "77662": {
+      "label": "ProCASP10",
+      "style": "internal"
+    },
+    "77663": {
+      "label": "HTRA2mitochondria",
+      "style": "internal"
+    },
+    "77664": {
+      "label": "BCL2A1gene",
+      "style": "internal"
+    },
+    "77665": {
+      "label": "TLR7_TLR7",
+      "style": "internal"
+    },
+    "77666": {
+      "label": "MAP3K7",
+      "style": "internal"
+    },
+    "77667": {
+      "label": "BAK1",
+      "style": "internal"
+    },
+    "77668": {
+      "label": "IFNA",
+      "style": "external"
+    },
+    "77669": {
+      "label": "TLR9_MYD88_IRAK1_IRAK4",
+      "style": "internal"
+    },
+    "77670": {
+      "label": "Ub",
+      "style": "internal"
+    },
+    "77671": {
+      "label": "MYD88",
+      "style": "internal"
+    },
+    "77672": {
+      "label": "TLR2_TLR6",
+      "style": "internal"
+    },
+    "77673": {
+      "label": "IFNG",
+      "style": "external"
+    },
+    "77674": {
+      "label": "BAK1gene",
+      "style": "internal"
+    },
+    "77675": {
+      "label": "SOD2gene",
+      "style": "internal"
+    },
+    "77676": {
+      "label": "FAS",
+      "style": "internal"
+    },
+    "77677": {
+      "label": "IRF7_IRF7cytoplasm",
+      "style": "internal"
+    },
+    "77678": {
+      "label": "TLR5_TLR5",
+      "style": "internal"
+    },
+    "77679": {
+      "label": "IRF5_IRF7nucleus",
+      "style": "internal"
+    },
+    "77680": {
+      "label": "Proteasome",
+      "style": "internal"
+    },
+    "77681": {
+      "label": "CD40",
+      "style": "internal"
+    },
+    "77682": {
+      "label": "NFKB2p52_RELBcytoplasm",
+      "style": "internal"
+    },
+    "77683": {
+      "label": "BBC3gene",
+      "style": "internal"
+    },
+    "77684": {
+      "label": "IFNB1_IFNB1",
+      "style": "internal"
+    },
+    "77685": {
+      "label": "CD40_CD40LG",
+      "style": "internal"
+    },
+    "77686": {
+      "label": "Fragmented_DNAnucleus",
+      "style": "internal"
+    },
+    "77687": {
+      "label": "IFNB1",
+      "style": "external"
+    },
+    "77688": {
+      "label": "CD40LG",
+      "style": "external"
+    },
+    "77689": {
+      "label": "EIF2S1",
+      "style": "internal"
+    },
+    "77690": {
+      "label": "IFNAR",
+      "style": "internal"
+    },
+    "77691": {
+      "label": "STAT1_STAT1nucleus_p1",
+      "style": "internal"
+    },
+    "77692": {
+      "label": "STAT1_STAT1nucleus_p2",
+      "style": "internal"
+    },
+    "77693": {
+      "label": "IFNAgene",
+      "style": "internal"
+    },
+    "77694": {
+      "label": "CKII",
+      "style": "internal"
+    },
+    "77695": {
+      "label": "PDCD8mitochondria",
+      "style": "internal"
+    },
+    "77696": {
+      "label": "TRAF2cytoplasm",
+      "style": "internal"
+    },
+    "77697": {
+      "label": "Inactivation_of_Protein_Synthesis",
+      "style": "internal"
+    },
+    "77698": {
+      "label": "CD40_CD40LG_TRAF3",
+      "style": "internal"
+    },
+    "77699": {
+      "label": "NFKB2p52_NFKB2p52cytoplasm",
+      "style": "internal"
+    },
+    "77700": {
+      "label": "MAP3K7IP1",
+      "style": "internal"
+    },
+    "77701": {
+      "label": "cGAS2",
+      "style": "internal"
+    },
+    "77702": {
+      "label": "IL1R1",
+      "style": "internal"
+    },
+    "77703": {
+      "label": "Apoptosis",
+      "style": "internal"
+    },
+    "77704": {
+      "label": "ILIB_IL1R1",
+      "style": "internal"
+    },
+    "77705": {
+      "label": "TNF_IKBKG_Complex",
+      "style": "internal"
+    },
+    "77706": {
+      "label": "IRF5_IRF5cytoplasm",
+      "style": "internal"
+    },
+    "77707": {
+      "label": "NFKBIA",
+      "style": "internal"
+    },
+    "77708": {
+      "label": "ProCASP8",
+      "style": "internal"
+    },
+    "77709": {
+      "label": "HSPA1A",
+      "style": "internal"
+    },
+    "77710": {
+      "label": "tBID",
+      "style": "internal"
+    },
+    "77711": {
+      "label": "MAP3K7IP2",
+      "style": "internal"
+    },
+    "77712": {
+      "label": "PDCD8_HSPA1A",
+      "style": "internal"
+    },
+    "77713": {
+      "label": "ILIB_IL1R1_MYD88_IRAK1_IRAK4_TRAF6",
+      "style": "internal"
+    },
+    "77714": {
+      "label": "ProCASP1",
+      "style": "internal"
+    },
+    "77715": {
+      "label": "ProCASP2",
+      "style": "internal"
+    },
+    "77716": {
+      "label": "ProCASP3",
+      "style": "internal"
+    },
+    "77717": {
+      "label": "ProCASP4",
+      "style": "internal"
+    },
+    "77718": {
+      "label": "ProCASP6",
+      "style": "internal"
+    },
+    "77719": {
+      "label": "ProCASP7",
+      "style": "internal"
+    },
+    "77720": {
+      "label": "CASP3_Activator",
+      "style": "external"
+    },
+    "77721": {
+      "label": "G1P3gene",
+      "style": "internal"
+    },
+    "77722": {
+      "label": "ENDOGcytoplasm",
+      "style": "internal"
+    },
+    "77723": {
+      "label": "Bacteria",
+      "style": "external"
+    },
+    "77724": {
+      "label": "NOS2Agene",
+      "style": "internal"
+    },
+    "77725": {
+      "label": "CREBBP",
+      "style": "internal"
+    },
+    "77726": {
+      "label": "ENDOGnucleus",
+      "style": "internal"
+    },
+    "77727": {
+      "label": "GAS2",
+      "style": "internal"
+    },
+    "77728": {
+      "label": "IRF3_IRF3nucleus",
+      "style": "internal"
+    },
+    "77729": {
+      "label": "RELAp65_NFBK1p50nucleus",
+      "style": "internal"
+    },
+    "77730": {
+      "label": "TLR2_TLR6_TOLLIP_MYD88_IRAK1_IRAK4_TRAF6",
+      "style": "internal"
+    },
+    "77731": {
+      "label": "GBP1gene",
+      "style": "internal"
+    },
+    "77732": {
+      "label": "PSMB9gene",
+      "style": "internal"
+    },
+    "77733": {
+      "label": "NFKB2p100_NFKB2p100_Ub",
+      "style": "internal"
+    },
+    "77734": {
+      "label": "DNA",
+      "style": "internal"
+    },
+    "77735": {
+      "label": "IKBKG_CHUK_IKBKB",
+      "style": "internal"
+    },
+    "77736": {
+      "label": "TNFSF10_TNFRSF10A_FADD",
+      "style": "internal"
+    },
+    "77737": {
+      "label": "FASLG_FAS_FADD_FAF1_DAXX_CFLAR",
+      "style": "internal"
+    },
+    "77738": {
+      "label": "ILIB",
+      "style": "external"
+    },
+    "77739": {
+      "label": "IL15gene",
+      "style": "internal"
+    },
+    "77740": {
+      "label": "cLMNA",
+      "style": "internal"
+    },
+    "77741": {
+      "label": "PKA",
+      "style": "internal"
+    },
+    "77742": {
+      "label": "TOLLIP",
+      "style": "internal"
+    },
+    "77743": {
+      "label": "IFIT2gene",
+      "style": "internal"
+    },
+    "77744": {
+      "label": "SPI1",
+      "style": "internal"
+    },
+    "77745": {
+      "label": "CASP6_Activator",
+      "style": "external"
+    },
+    "77746": {
+      "label": "NFKB2p52_RELBnucleus",
+      "style": "internal"
+    },
+    "77747": {
+      "label": "ENDOGmitochondria",
+      "style": "internal"
+    },
+    "77748": {
+      "label": "PKC",
+      "style": "internal"
+    },
+    "77749": {
+      "label": "DAXX",
+      "style": "internal"
+    },
+    "77750": {
+      "label": "TLR2_TLR6_TOLLIP_MYD88_IRAK1_IRAK4",
+      "style": "internal"
+    },
+    "77751": {
+      "label": "CASP3gene",
+      "style": "internal"
+    },
+    "77752": {
+      "label": "PARP",
+      "style": "internal"
+    },
+    "77753": {
+      "label": "TNFRSF10Bgene",
+      "style": "internal"
+    },
+    "77754": {
+      "label": "BAG4",
+      "style": "internal"
+    },
+    "77755": {
+      "label": "DNA_Fragmentation",
+      "style": "internal"
+    },
+    "77756": {
+      "label": "TICAM1",
+      "style": "internal"
+    },
+    "77757": {
+      "label": "CYCSmytochondria",
+      "style": "internal"
+    },
+    "77758": {
+      "label": "TICAM2",
+      "style": "internal"
+    },
+    "77759": {
+      "label": "CYBBgene",
+      "style": "internal"
+    },
+    "77760": {
+      "label": "TNF_TNFRSF1A_FADD_TRADD",
+      "style": "internal"
+    },
+    "77761": {
+      "label": "G1P2gene",
+      "style": "internal"
+    },
+    "77762": {
+      "label": "ssRNA",
+      "style": "internal"
+    },
+    "77763": {
+      "label": "TLR3_TICAM1_TICAM2",
+      "style": "internal"
+    },
+    "77764": {
+      "label": "TNF_BAG4_TNFRSF1A",
+      "style": "internal"
+    },
+    "77765": {
+      "label": "Diacyl_Lipopeptides",
+      "style": "internal"
+    },
+    "77766": {
+      "label": "CASP7_Activator",
+      "style": "external"
+    },
+    "77767": {
+      "label": "NFKB2p100_RELB_Ub",
+      "style": "internal"
+    },
+    "77768": {
+      "label": "TNFRSF10A",
+      "style": "internal"
+    },
+    "77769": {
+      "label": "IRF1_IRF1cytoplasm",
+      "style": "internal"
+    },
+    "77770": {
+      "label": "PDCD8cytoplasm",
+      "style": "internal"
+    },
+    "77771": {
+      "label": "Cell_Shrinkage",
+      "style": "internal"
+    },
+    "77772": {
+      "label": "TNFRSF10B",
+      "style": "internal"
+    },
+    "77773": {
+      "label": "RIPK1",
+      "style": "internal"
+    },
+    "77774": {
+      "label": "MAP3K7IP1_MAP3K7IP2_MAP3K7",
+      "style": "internal"
+    },
+    "77775": {
+      "label": "STAT1_STAT1_IRF9cytoplasm",
+      "style": "internal"
+    },
+    "77776": {
+      "label": "RELAp65_NFKB1p50cytoplasm",
+      "style": "internal"
+    },
+    "77777": {
+      "label": "HLA_Bgene",
+      "style": "internal"
+    },
+    "77778": {
+      "label": "PRKRAgene",
+      "style": "internal"
+    },
+    "77779": {
+      "label": "MAP3K14",
+      "style": "internal"
+    },
+    "77780": {
+      "label": "TNFSF10_TNFRSF10A",
+      "style": "internal"
+    },
+    "77781": {
+      "label": "TLR7_MYD88_TRAF6_IRF5",
+      "style": "internal"
+    },
+    "77782": {
+      "label": "BID",
+      "style": "internal"
+    },
+    "77783": {
+      "label": "NFKB2p100_NFKB2p100cytoplasm",
+      "style": "internal"
+    },
+    "77784": {
+      "label": "STAT1_STAT1_IRF9nucleus",
+      "style": "internal"
+    },
+    "77785": {
+      "label": "TP53cytoplasm",
+      "style": "internal"
+    },
+    "77786": {
+      "label": "TNF_TNFRSF1A_FADD_TRADD_TRAF2_RIPK1",
+      "style": "internal"
+    },
+    "77787": {
+      "label": "EIF2AK2_PRKRA",
+      "style": "internal"
+    },
+    "77788": {
+      "label": "PLSCR1gene",
+      "style": "internal"
+    },
+    "77789": {
+      "label": "EIF2AK2cytoplasm",
+      "style": "internal"
+    },
+    "77790": {
+      "label": "IRF2_Activator",
+      "style": "external"
+    },
+    "77791": {
+      "label": "STAT1_STAT1cytoplasm",
+      "style": "internal"
+    },
+    "77792": {
+      "label": "BCL2",
+      "style": "internal"
+    },
+    "77793": {
+      "label": "BCL3",
+      "style": "internal"
+    },
+    "77794": {
+      "label": "Flagellin",
+      "style": "internal"
+    },
+    "77795": {
+      "label": "TLR9_MYD88_TRAF6",
+      "style": "internal"
+    },
+    "77796": {
+      "label": "NFKB2p100",
+      "style": "internal"
+    },
+    "77797": {
+      "label": "LMNA",
+      "style": "internal"
+    },
+    "77798": {
+      "label": "IRF1gene",
+      "style": "internal"
+    },
+    "77799": {
+      "label": "STAT1",
+      "style": "internal"
+    },
+    "77800": {
+      "label": "External_Activator",
+      "style": "external"
+    },
+    "77801": {
+      "label": "BIRC2",
+      "style": "internal"
+    },
+    "77802": {
+      "label": "STAT2",
+      "style": "internal"
+    },
+    "77803": {
+      "label": "dsRNA",
+      "style": "internal"
+    },
+    "77804": {
+      "label": "RPS6KA5",
+      "style": "internal"
+    },
+    "77805": {
+      "label": "IKBKE_TBK1",
+      "style": "internal"
+    },
+    "77806": {
+      "label": "BCL2L1gene",
+      "style": "internal"
+    },
+    "77807": {
+      "label": "BIRC4gene",
+      "style": "internal"
+    },
+    "77808": {
+      "label": "FASLG_FAS_FADD_FAF1_DAXX",
+      "style": "internal"
+    },
+    "77809": {
+      "label": "TLR3_TICAM1_TICAM2_TBK1",
+      "style": "internal"
+    },
+    "77810": {
+      "label": "CXCL9gene",
+      "style": "internal"
+    },
+    "77811": {
+      "label": "TNFSF13B_TNFRSF17",
+      "style": "internal"
+    },
+    "77812": {
+      "label": "IRF5_IRF5nucleus",
+      "style": "internal"
+    },
+    "77813": {
+      "label": "ISGF3nucleus",
+      "style": "internal"
+    },
+    "77814": {
+      "label": "TBK1",
+      "style": "internal"
+    },
+    "77815": {
+      "label": "TIRAP",
+      "style": "internal"
+    },
+    "77816": {
+      "label": "TLR2",
+      "style": "internal"
+    },
+    "77817": {
+      "label": "TLR3",
+      "style": "internal"
+    },
+    "77818": {
+      "label": "TLR4",
+      "style": "internal"
+    },
+    "77819": {
+      "label": "FASgene",
+      "style": "internal"
+    },
+    "77820": {
+      "label": "TLR5",
+      "style": "internal"
+    },
+    "77821": {
+      "label": "TLR6",
+      "style": "internal"
+    },
+    "77822": {
+      "label": "TLR7",
+      "style": "internal"
+    },
+    "77823": {
+      "label": "TLR9",
+      "style": "internal"
+    },
+    "77824": {
+      "label": "TRAF1gene",
+      "style": "internal"
+    },
+    "77825": {
+      "label": "IPARP",
+      "style": "internal"
+    },
+    "77826": {
+      "label": "NFKB2p52_NFKB2p52nucleus",
+      "style": "internal"
+    },
+    "77827": {
+      "label": "Viral_Bacterial_CpG",
+      "style": "internal"
+    },
+    "77828": {
+      "label": "CASP7nucleus",
+      "style": "internal"
+    },
+    "77829": {
+      "label": "PMAIPgene",
+      "style": "internal"
+    },
+    "77830": {
+      "label": "IRF3_IRF5cytoplasm",
+      "style": "internal"
+    },
+    "77831": {
+      "label": "DFFA",
+      "style": "internal"
+    },
+    "77832": {
+      "label": "SOCS3",
+      "style": "internal"
+    },
+    "77833": {
+      "label": "BCL2A1",
+      "style": "internal"
+    },
+    "77834": {
+      "label": "SOCS1",
+      "style": "internal"
+    },
+    "77835": {
+      "label": "RELB",
+      "style": "internal"
+    },
+    "77836": {
+      "label": "TNFRSF17",
+      "style": "internal"
+    },
+    "77837": {
+      "label": "FADD",
+      "style": "internal"
+    },
+    "77838": {
+      "label": "Virus",
+      "style": "external"
+    },
+    "77839": {
+      "label": "RELA_p65",
+      "style": "internal"
+    },
+    "77840": {
+      "label": "EP300",
+      "style": "internal"
+    },
+    "77841": {
+      "label": "TLR9_MYD88_TRAF6_IRF5",
+      "style": "internal"
+    },
+    "77842": {
+      "label": "TNF_TNFRSF1B",
+      "style": "internal"
+    },
+    "77843": {
+      "label": "CASP7cytoplasm",
+      "style": "internal"
+    },
+    "77844": {
+      "label": "TNF_TNFRSF1A",
+      "style": "internal"
+    },
+    "77845": {
+      "label": "RIPK3",
+      "style": "internal"
+    },
+    "77846": {
+      "label": "TNF_TNFRSF1B_TRAF2",
+      "style": "internal"
+    },
+    "77847": {
+      "label": "BCL2_BAX",
+      "style": "internal"
+    },
+    "77848": {
+      "label": "DIABLOmitochondria",
+      "style": "internal"
+    },
+    "77849": {
+      "label": "IRF5_IRF7cytoplasm",
+      "style": "internal"
+    },
+    "77850": {
+      "label": "RIPK1gene",
+      "style": "internal"
+    },
+    "77851": {
+      "label": "BAG4_TNFRSF1A",
+      "style": "internal"
+    },
+    "77852": {
+      "label": "TNFSF13B_TNFRSF17_TRAF5",
+      "style": "internal"
+    },
+    "77853": {
+      "label": "IFIT1gene",
+      "style": "internal"
+    },
+    "77854": {
+      "label": "TLR9_MYD88_IRAK1_IRAK4_TRAF6",
+      "style": "internal"
+    },
+    "77855": {
+      "label": "DIABLOcytoplasm",
+      "style": "internal"
+    },
+    "77856": {
+      "label": "TNFSF10gene",
+      "style": "internal"
+    },
+    "77857": {
+      "label": "SP100gene",
+      "style": "internal"
+    },
+    "77858": {
+      "label": "Fragmented_DNAcytoplasm",
+      "style": "internal"
+    },
+    "77859": {
+      "label": "TLR3_TICAM1_TICAM2_RIPK1_RIPK3",
+      "style": "internal"
+    },
+    "77860": {
+      "label": "IL12Bgene",
+      "style": "internal"
+    },
+    "77861": {
+      "label": "ATF2",
+      "style": "internal"
+    },
+    "77862": {
+      "label": "IL1Bgene",
+      "style": "internal"
+    },
+    "77863": {
+      "label": "IRAK4",
+      "style": "internal"
+    },
+    "77864": {
+      "label": "IFNB1gene",
+      "style": "internal"
+    },
+    "77865": {
+      "label": "CHUK_CHUK",
+      "style": "internal"
+    },
+    "77866": {
+      "label": "CYCScytoplasm",
+      "style": "internal"
+    },
+    "77867": {
+      "label": "BIRC3gene",
+      "style": "internal"
+    },
+    "77868": {
+      "label": "TLR1_TLR2",
+      "style": "internal"
+    },
+    "77869": {
+      "label": "TLR7_MYD88_IRAK1_IRAK4",
+      "style": "internal"
+    },
+    "77870": {
+      "label": "PRKRA",
+      "style": "internal"
+    },
+    "77871": {
+      "label": "FASLGgene",
+      "style": "internal"
+    },
+    "77872": {
+      "label": "TLR5_MYD88_IRAK1_IRAK4",
+      "style": "internal"
+    },
+    "77873": {
+      "label": "TRAF6",
+      "style": "internal"
+    },
+    "77874": {
+      "label": "TRAF5",
+      "style": "internal"
+    },
+    "77875": {
+      "label": "IRF3_IRF7cytoplasm",
+      "style": "internal"
+    },
+    "77876": {
+      "label": "TRAF3",
+      "style": "internal"
+    },
+    "77877": {
+      "label": "CFLAR",
+      "style": "internal"
+    },
+    "77878": {
+      "label": "TNFSF10_TNFSF10B",
+      "style": "internal"
+    },
+    "77879": {
+      "label": "PTPN2",
+      "style": "internal"
+    },
+    "77880": {
+      "label": "LPS",
+      "style": "internal"
+    },
+    "77881": {
+      "label": "IRF1_IRF1_Activator",
+      "style": "external"
+    },
+    "77882": {
+      "label": "BIRC4cytoplasm",
+      "style": "internal"
+    },
+    "77883": {
+      "label": "TLR3_TICAM1_TICAM2_TRAF6",
+      "style": "internal"
+    },
+    "77884": {
+      "label": "TRADD",
+      "style": "internal"
+    },
+    "77885": {
+      "label": "CASP6nucleus",
+      "style": "internal"
+    },
+    "77886": {
+      "label": "IKBKE",
+      "style": "internal"
+    },
+    "77887": {
+      "label": "TNFSF10",
+      "style": "external"
+    },
+    "77888": {
+      "label": "CFLARgene",
+      "style": "internal"
+    },
+    "77889": {
+      "label": "TLR1_TLR2_TIRAP_MYD88_IRAK2_IRAK1_IRAK4",
+      "style": "internal"
+    },
+    "77890": {
+      "label": "IKBKG",
+      "style": "internal"
+    },
+    "77891": {
+      "label": "IKBKB",
+      "style": "internal"
+    },
+    "77892": {
+      "label": "CIITAgene",
+      "style": "internal"
+    },
+    "77893": {
+      "label": "APAF1_CYCS",
+      "style": "internal"
+    },
+    "77894": {
+      "label": "IRF2gene",
+      "style": "internal"
+    },
+    "77895": {
+      "label": "IRF1cytoplasm",
+      "style": "internal"
+    },
+    "77896": {
+      "label": "Mitochondrial_Activator",
+      "style": "external"
+    },
+    "77897": {
+      "label": "TP53nucleus",
+      "style": "internal"
+    },
+    "77898": {
+      "label": "PDCD8nucleus",
+      "style": "internal"
+    },
+    "77899": {
+      "label": "TLR1_TLR2_TIRAP_MYD88_IRAK2_IRAK1_IRAK4_TRAF6",
+      "style": "internal"
+    },
+    "77900": {
+      "label": "FASLG",
+      "style": "external"
+    },
+    "77901": {
+      "label": "Apoptosome",
+      "style": "internal"
+    },
+    "77902": {
+      "label": "IFNGR",
+      "style": "internal"
+    },
+    "77903": {
+      "label": "CASP4",
+      "style": "internal"
+    },
+    "77904": {
+      "label": "CASP9",
+      "style": "internal"
+    },
+    "77905": {
+      "label": "OAS1gene",
+      "style": "internal"
+    },
+    "77906": {
+      "label": "CASP8",
+      "style": "internal"
+    },
+    "77907": {
+      "label": "IRF3_IRF7nucleus",
+      "style": "internal"
+    },
+    "77908": {
+      "label": "BCL2L1mitochondria",
+      "style": "internal"
+    },
+    "77909": {
+      "label": "EIF2AK2gene",
+      "style": "internal"
+    },
+    "77910": {
+      "label": "CASP1",
+      "style": "internal"
+    },
+    "77911": {
+      "label": "IFNGR2",
+      "style": "internal"
+    },
+    "77912": {
+      "label": "CASP2",
+      "style": "internal"
+    },
+    "77913": {
+      "label": "CHUK",
+      "style": "internal"
+    },
+    "77914": {
+      "label": "IFNGR1",
+      "style": "internal"
+    },
+    "77915": {
+      "label": "IRAK2",
+      "style": "internal"
+    },
+    "77916": {
+      "label": "IRAK1",
+      "style": "internal"
+    },
+    "77917": {
+      "label": "CASP3cytoplasm",
+      "style": "internal"
+    },
+    "77918": {
+      "label": "MDM2gene",
+      "style": "internal"
+    },
+    "77919": {
+      "label": "CXCL10gene",
+      "style": "internal"
+    },
+    "77920": {
+      "label": "PRKCD",
+      "style": "internal"
+    },
+    "77921": {
+      "label": "IFNAR1",
+      "style": "internal"
+    },
+    "77922": {
+      "label": "TYK2",
+      "style": "internal"
+    },
+    "77923": {
+      "label": "IFNAR2",
+      "style": "internal"
+    },
+    "77924": {
+      "label": "TNFSF13B",
+      "style": "external"
+    },
+    "77925": {
+      "label": "RELA_NFKB1_Activator",
+      "style": "external"
+    },
+    "77926": {
+      "label": "APAF1gene",
+      "style": "internal"
+    },
+    "77927": {
+      "label": "TLR3_TLR3",
+      "style": "internal"
+    },
+    "77928": {
+      "label": "IDFFA",
+      "style": "internal"
+    },
+    "77929": {
+      "label": "TLR3_TICAM1_TICAM2_RIPK1",
+      "style": "internal"
+    },
+    "77930": {
+      "label": "IRF3_IRF3cytoplasm",
+      "style": "internal"
+    },
+    "77931": {
+      "label": "CASP3nucleus",
+      "style": "internal"
+    },
+    "77932": {
+      "label": "CCL5gene",
+      "style": "internal"
+    },
+    "77933": {
+      "label": "PRKCZ",
+      "style": "internal"
+    },
+    "77934": {
+      "label": "TNF",
+      "style": "external"
+    },
+    "77935": {
+      "label": "Inactive_DNA_Repair",
+      "style": "internal"
+    },
+    "77936": {
+      "label": "TLR5_MYD88_IRAK1_IRAK4_TRAF6",
+      "style": "internal"
+    },
+    "77937": {
+      "label": "TLR7_MYD88_IRAK1_IRAK4_TRAF6",
+      "style": "internal"
+    },
+    "77938": {
+      "label": "TAP1gene",
+      "style": "internal"
+    },
+    "77939": {
+      "label": "IFNA_IFNA",
+      "style": "internal"
+    },
+    "77940": {
+      "label": "IFR5gene",
+      "style": "internal"
+    },
+    "77941": {
+      "label": "BCL3_NFKB2p52_NFKB2p52",
+      "style": "internal"
+    },
+    "77942": {
+      "label": "ISGF3cytoplasm",
+      "style": "internal"
+    },
+    "77943": {
+      "label": "TNFSF10_TNFSF10B_FADD",
+      "style": "internal"
+    },
+    "77944": {
+      "label": "TNFRSF1A",
+      "style": "internal"
+    },
+    "77945": {
+      "label": "TNFRSF1B",
+      "style": "internal"
+    },
+    "77946": {
+      "label": "FASLG_FAS",
+      "style": "internal"
+    },
+    "77947": {
+      "label": "TLR9_TLR9",
+      "style": "internal"
+    },
+    "77948": {
+      "label": "CASP6cytoplasm",
+      "style": "internal"
+    },
+    "77949": {
+      "label": "NFKB1_p50",
+      "style": "internal"
+    },
+    "77950": {
+      "label": "CXCL11gene",
+      "style": "internal"
+    },
+    "77951": {
+      "label": "BCL2L1_BAD",
+      "style": "internal"
+    },
+    "77952": {
+      "label": "PTP",
+      "style": "internal"
+    },
+    "77953": {
+      "label": "IRF3_IRF5nucleus",
+      "style": "internal"
+    },
+    "77954": {
+      "label": "TRAF2gene",
+      "style": "internal"
+    },
+    "77955": {
+      "label": "IRF7_IRF7nucleus",
+      "style": "internal"
+    },
+    "77956": {
+      "label": "ICAM1gene",
+      "style": "internal"
+    },
+    "77957": {
+      "label": "STAT1_STAT2",
+      "style": "internal"
+    },
+    "77958": {
+      "label": "NFKBIA_RELAp65_NFKB1p50",
+      "style": "internal"
+    },
+    "77959": {
+      "label": "NFKB2p100_RELBcytoplasm",
+      "style": "internal"
+    },
+    "77960": {
+      "label": "IRF1_IRF1nucleus",
+      "style": "internal"
+    },
+    "77961": {
+      "label": "BAD",
+      "style": "internal"
+    },
+    "77962": {
+      "label": "Triacyl_Lipopeptides",
+      "style": "internal"
+    },
+    "77963": {
+      "label": "IRF9",
+      "style": "internal"
+    },
+    "77964": {
+      "label": "CASP10",
+      "style": "internal"
+    },
+    "77965": {
+      "label": "IRF5",
+      "style": "internal"
+    },
+    "77966": {
+      "label": "IER3gene",
+      "style": "internal"
+    },
+    "77967": {
+      "label": "BAX",
+      "style": "internal"
+    },
+    "77968": {
+      "label": "IRF7",
+      "style": "internal"
+    },
+    "77969": {
+      "label": "IRF8",
+      "style": "internal"
+    },
+    "77970": {
+      "label": "TLR4_TICAM1_TICAM2",
+      "style": "internal"
+    },
+    "77971": {
+      "label": "IRF2",
+      "style": "internal"
+    },
+    "77972": {
+      "label": "JAK1",
+      "style": "internal"
+    },
+    "77973": {
+      "label": "CBP",
+      "style": "internal"
+    },
+    "77974": {
+      "label": "JAK2",
+      "style": "internal"
+    },
+    "77975": {
+      "label": "IRF3",
+      "style": "internal"
+    },
+    "77976": {
+      "label": "IRF4",
+      "style": "internal"
+    },
+    "77977": {
+      "label": "FAF1",
+      "style": "internal"
+    },
+    "77978": {
+      "label": "APAF1",
+      "style": "internal"
+    },
+    "77979": {
+      "label": "HTRA2cytoplasm",
+      "style": "internal"
+    },
+    "77980": {
+      "label": "STAT1gene",
+      "style": "internal"
+    }
+  },
+  "edges": [
+    [
+      "77978",
+      "77893"
+    ],
+    [
+      "77893",
+      "77901"
+    ],
+    [
+      "77861",
+      "77864"
+    ],
+    [
+      "77901",
+      "77917"
+    ],
+    [
+      "77901",
+      "77843"
+    ],
+    [
+      "77961",
+      "77951"
+    ],
+    [
+      "77754",
+      "77851"
+    ],
+    [
+      "77851",
+      "77764"
+    ],
+    [
+      "77667",
+      "77866"
+    ],
+    [
+      "77667",
+      "77855"
+    ],
+    [
+      "77967",
+      "77847"
+    ],
+    [
+      "77967",
+      "77866"
+    ],
+    [
+      "77967",
+      "77855"
+    ],
+    [
+      "77792",
+      "77847"
+    ],
+    [
+      "77908",
+      "77951"
+    ],
+    [
+      "77793",
+      "77941"
+    ],
+    [
+      "77782",
+      "77710"
+    ],
+    [
+      "77801",
+      "77917"
+    ],
+    [
+      "77882",
+      "77917"
+    ],
+    [
+      "77882",
+      "77843"
+    ],
+    [
+      "77723",
+      "77765"
+    ],
+    [
+      "77723",
+      "77794"
+    ],
+    [
+      "77723",
+      "77880"
+    ],
+    [
+      "77723",
+      "77962"
+    ],
+    [
+      "77723",
+      "77827"
+    ],
+    [
+      "77964",
+      "77843"
+    ],
+    [
+      "77912",
+      "77710"
+    ],
+    [
+      "77720",
+      "77716"
+    ],
+    [
+      "77917",
+      "77751"
+    ],
+    [
+      "77917",
+      "77931"
+    ],
+    [
+      "77931",
+      "77928"
+    ],
+    [
+      "77931",
+      "77825"
+    ],
+    [
+      "77931",
+      "77701"
+    ],
+    [
+      "77903",
+      "77910"
+    ],
+    [
+      "77903",
+      "77917"
+    ],
+    [
+      "77745",
+      "77904"
+    ],
+    [
+      "77745",
+      "77718"
+    ],
+    [
+      "77948",
+      "77885"
+    ],
+    [
+      "77885",
+      "77740"
+    ],
+    [
+      "77766",
+      "77719"
+    ],
+    [
+      "77843",
+      "77828"
+    ],
+    [
+      "77828",
+      "77825"
+    ],
+    [
+      "77906",
+      "77917"
+    ],
+    [
+      "77906",
+      "77843"
+    ],
+    [
+      "77906",
+      "77710"
+    ],
+    [
+      "77904",
+      "77901"
+    ],
+    [
+      "77904",
+      "77948"
+    ],
+    [
+      "77973",
+      "77919"
+    ],
+    [
+      "77973",
+      "77761"
+    ],
+    [
+      "77973",
+      "77743"
+    ],
+    [
+      "77973",
+      "77864"
+    ],
+    [
+      "77681",
+      "77685"
+    ],
+    [
+      "77688",
+      "77685"
+    ],
+    [
+      "77685",
+      "77698"
+    ],
+    [
+      "77698",
+      "77779"
+    ],
+    [
+      "77877",
+      "77737"
+    ],
+    [
+      "77913",
+      "77865"
+    ],
+    [
+      "77913",
+      "77735"
+    ],
+    [
+      "77913",
+      "77735"
+    ],
+    [
+      "77913",
+      "77776"
+    ],
+    [
+      "77913",
+      "77705"
+    ],
+    [
+      "77865",
+      "77959"
+    ],
+    [
+      "77694",
+      "77895"
+    ],
+    [
+      "77725",
+      "77973"
+    ],
+    [
+      "77866",
+      "77893"
+    ],
+    [
+      "77757",
+      "77866"
+    ],
+    [
+      "77771",
+      "77703"
+    ],
+    [
+      "77749",
+      "77808"
+    ],
+    [
+      "77831",
+      "77928"
+    ],
+    [
+      "77855",
+      "77882"
+    ],
+    [
+      "77848",
+      "77855"
+    ],
+    [
+      "77734",
+      "77686"
+    ],
+    [
+      "77755",
+      "77703"
+    ],
+    [
+      "77755",
+      "77858"
+    ],
+    [
+      "77765",
+      "77672"
+    ],
+    [
+      "77787",
+      "77785"
+    ],
+    [
+      "77789",
+      "77787"
+    ],
+    [
+      "77909",
+      "77689"
+    ],
+    [
+      "77689",
+      "77697"
+    ],
+    [
+      "77722",
+      "77726"
+    ],
+    [
+      "77747",
+      "77722"
+    ],
+    [
+      "77726",
+      "77686"
+    ],
+    [
+      "77840",
+      "77973"
+    ],
+    [
+      "77800",
+      "77978"
+    ],
+    [
+      "77800",
+      "77861"
+    ],
+    [
+      "77800",
+      "77754"
+    ],
+    [
+      "77800",
+      "77793"
+    ],
+    [
+      "77800",
+      "77782"
+    ],
+    [
+      "77800",
+      "77801"
+    ],
+    [
+      "77800",
+      "77681"
+    ],
+    [
+      "77800",
+      "77877"
+    ],
+    [
+      "77800",
+      "77913"
+    ],
+    [
+      "77800",
+      "77725"
+    ],
+    [
+      "77800",
+      "77749"
+    ],
+    [
+      "77800",
+      "77831"
+    ],
+    [
+      "77800",
+      "77734"
+    ],
+    [
+      "77800",
+      "77840"
+    ],
+    [
+      "77800",
+      "77837"
+    ],
+    [
+      "77800",
+      "77977"
+    ],
+    [
+      "77800",
+      "77676"
+    ],
+    [
+      "77800",
+      "77727"
+    ],
+    [
+      "77800",
+      "77709"
+    ],
+    [
+      "77800",
+      "77921"
+    ],
+    [
+      "77800",
+      "77923"
+    ],
+    [
+      "77800",
+      "77914"
+    ],
+    [
+      "77800",
+      "77911"
+    ],
+    [
+      "77800",
+      "77891"
+    ],
+    [
+      "77800",
+      "77886"
+    ],
+    [
+      "77800",
+      "77890"
+    ],
+    [
+      "77800",
+      "77702"
+    ],
+    [
+      "77800",
+      "77916"
+    ],
+    [
+      "77800",
+      "77915"
+    ],
+    [
+      "77800",
+      "77863"
+    ],
+    [
+      "77800",
+      "77976"
+    ],
+    [
+      "77800",
+      "77963"
+    ],
+    [
+      "77800",
+      "77972"
+    ],
+    [
+      "77800",
+      "77974"
+    ],
+    [
+      "77800",
+      "77797"
+    ],
+    [
+      "77800",
+      "77666"
+    ],
+    [
+      "77800",
+      "77700"
+    ],
+    [
+      "77800",
+      "77711"
+    ],
+    [
+      "77800",
+      "77671"
+    ],
+    [
+      "77800",
+      "77796"
+    ],
+    [
+      "77800",
+      "77724"
+    ],
+    [
+      "77800",
+      "77752"
+    ],
+    [
+      "77800",
+      "77920"
+    ],
+    [
+      "77800",
+      "77933"
+    ],
+    [
+      "77800",
+      "77870"
+    ],
+    [
+      "77800",
+      "77952"
+    ],
+    [
+      "77800",
+      "77879"
+    ],
+    [
+      "77800",
+      "77714"
+    ],
+    [
+      "77800",
+      "77662"
+    ],
+    [
+      "77800",
+      "77715"
+    ],
+    [
+      "77800",
+      "77717"
+    ],
+    [
+      "77800",
+      "77708"
+    ],
+    [
+      "77800",
+      "77680"
+    ],
+    [
+      "77800",
+      "77835"
+    ],
+    [
+      "77800",
+      "77773"
+    ],
+    [
+      "77800",
+      "77845"
+    ],
+    [
+      "77800",
+      "77804"
+    ],
+    [
+      "77800",
+      "77834"
+    ],
+    [
+      "77800",
+      "77832"
+    ],
+    [
+      "77800",
+      "77744"
+    ],
+    [
+      "77800",
+      "77814"
+    ],
+    [
+      "77800",
+      "77756"
+    ],
+    [
+      "77800",
+      "77758"
+    ],
+    [
+      "77800",
+      "77815"
+    ],
+    [
+      "77800",
+      "77816"
+    ],
+    [
+      "77800",
+      "77817"
+    ],
+    [
+      "77800",
+      "77820"
+    ],
+    [
+      "77800",
+      "77821"
+    ],
+    [
+      "77800",
+      "77822"
+    ],
+    [
+      "77800",
+      "77823"
+    ],
+    [
+      "77800",
+      "77768"
+    ],
+    [
+      "77800",
+      "77772"
+    ],
+    [
+      "77800",
+      "77836"
+    ],
+    [
+      "77800",
+      "77944"
+    ],
+    [
+      "77800",
+      "77945"
+    ],
+    [
+      "77800",
+      "77742"
+    ],
+    [
+      "77800",
+      "77884"
+    ],
+    [
+      "77800",
+      "77696"
+    ],
+    [
+      "77800",
+      "77876"
+    ],
+    [
+      "77800",
+      "77874"
+    ],
+    [
+      "77800",
+      "77873"
+    ],
+    [
+      "77800",
+      "77922"
+    ],
+    [
+      "77800",
+      "77670"
+    ],
+    [
+      "77837",
+      "77808"
+    ],
+    [
+      "77837",
+      "77736"
+    ],
+    [
+      "77837",
+      "77943"
+    ],
+    [
+      "77837",
+      "77760"
+    ],
+    [
+      "77977",
+      "77808"
+    ],
+    [
+      "77676",
+      "77946"
+    ],
+    [
+      "77900",
+      "77946"
+    ],
+    [
+      "77946",
+      "77808"
+    ],
+    [
+      "77808",
+      "77906"
+    ],
+    [
+      "77808",
+      "77737"
+    ],
+    [
+      "77737",
+      "77906"
+    ],
+    [
+      "77794",
+      "77678"
+    ],
+    [
+      "77858",
+      "77912"
+    ],
+    [
+      "77686",
+      "77755"
+    ],
+    [
+      "77727",
+      "77701"
+    ],
+    [
+      "77709",
+      "77712"
+    ],
+    [
+      "77979",
+      "77882"
+    ],
+    [
+      "77663",
+      "77979"
+    ],
+    [
+      "77928",
+      "77755"
+    ],
+    [
+      "77668",
+      "77690"
+    ],
+    [
+      "77668",
+      "77939"
+    ],
+    [
+      "77921",
+      "77690"
+    ],
+    [
+      "77921",
+      "77690"
+    ],
+    [
+      "77923",
+      "77690"
+    ],
+    [
+      "77923",
+      "77690"
+    ],
+    [
+      "77690",
+      "77802"
+    ],
+    [
+      "77687",
+      "77690"
+    ],
+    [
+      "77687",
+      "77684"
+    ],
+    [
+      "77673",
+      "77902"
+    ],
+    [
+      "77914",
+      "77902"
+    ],
+    [
+      "77911",
+      "77902"
+    ],
+    [
+      "77902",
+      "77799"
+    ],
+    [
+      "77891",
+      "77735"
+    ],
+    [
+      "77891",
+      "77735"
+    ],
+    [
+      "77891",
+      "77776"
+    ],
+    [
+      "77891",
+      "77705"
+    ],
+    [
+      "77886",
+      "77805"
+    ],
+    [
+      "77805",
+      "77975"
+    ],
+    [
+      "77805",
+      "77968"
+    ],
+    [
+      "77890",
+      "77735"
+    ],
+    [
+      "77890",
+      "77735"
+    ],
+    [
+      "77890",
+      "77705"
+    ],
+    [
+      "77735",
+      "77783"
+    ],
+    [
+      "77735",
+      "77958"
+    ],
+    [
+      "77702",
+      "77704"
+    ],
+    [
+      "77738",
+      "77704"
+    ],
+    [
+      "77704",
+      "77661"
+    ],
+    [
+      "77661",
+      "77713"
+    ],
+    [
+      "77713",
+      "77774"
+    ],
+    [
+      "77825",
+      "77935"
+    ],
+    [
+      "77916",
+      "77661"
+    ],
+    [
+      "77916",
+      "77889"
+    ],
+    [
+      "77916",
+      "77750"
+    ],
+    [
+      "77916",
+      "77872"
+    ],
+    [
+      "77916",
+      "77869"
+    ],
+    [
+      "77916",
+      "77669"
+    ],
+    [
+      "77915",
+      "77889"
+    ],
+    [
+      "77863",
+      "77661"
+    ],
+    [
+      "77863",
+      "77889"
+    ],
+    [
+      "77863",
+      "77750"
+    ],
+    [
+      "77863",
+      "77872"
+    ],
+    [
+      "77863",
+      "77869"
+    ],
+    [
+      "77863",
+      "77669"
+    ],
+    [
+      "77881",
+      "77694"
+    ],
+    [
+      "77881",
+      "77741"
+    ],
+    [
+      "77881",
+      "77748"
+    ],
+    [
+      "77769",
+      "77960"
+    ],
+    [
+      "77960",
+      "77932"
+    ],
+    [
+      "77960",
+      "77892"
+    ],
+    [
+      "77960",
+      "77909"
+    ],
+    [
+      "77960",
+      "77871"
+    ],
+    [
+      "77960",
+      "77761"
+    ],
+    [
+      "77960",
+      "77731"
+    ],
+    [
+      "77960",
+      "77660"
+    ],
+    [
+      "77960",
+      "77693"
+    ],
+    [
+      "77960",
+      "77864"
+    ],
+    [
+      "77960",
+      "77860"
+    ],
+    [
+      "77960",
+      "77739"
+    ],
+    [
+      "77960",
+      "77894"
+    ],
+    [
+      "77960",
+      "77969"
+    ],
+    [
+      "77960",
+      "77905"
+    ],
+    [
+      "77960",
+      "77732"
+    ],
+    [
+      "77960",
+      "77980"
+    ],
+    [
+      "77960",
+      "77938"
+    ],
+    [
+      "77960",
+      "77856"
+    ],
+    [
+      "77895",
+      "77769"
+    ],
+    [
+      "77971",
+      "77892"
+    ],
+    [
+      "77971",
+      "77761"
+    ],
+    [
+      "77971",
+      "77731"
+    ],
+    [
+      "77971",
+      "77660"
+    ],
+    [
+      "77971",
+      "77777"
+    ],
+    [
+      "77971",
+      "77693"
+    ],
+    [
+      "77971",
+      "77864"
+    ],
+    [
+      "77971",
+      "77969"
+    ],
+    [
+      "77971",
+      "77724"
+    ],
+    [
+      "77971",
+      "77732"
+    ],
+    [
+      "77971",
+      "77938"
+    ],
+    [
+      "77790",
+      "77971"
+    ],
+    [
+      "77975",
+      "77930"
+    ],
+    [
+      "77975",
+      "77875"
+    ],
+    [
+      "77930",
+      "77728"
+    ],
+    [
+      "77728",
+      "77919"
+    ],
+    [
+      "77728",
+      "77761"
+    ],
+    [
+      "77728",
+      "77743"
+    ],
+    [
+      "77728",
+      "77693"
+    ],
+    [
+      "77728",
+      "77864"
+    ],
+    [
+      "77728",
+      "77864"
+    ],
+    [
+      "77830",
+      "77953"
+    ],
+    [
+      "77953",
+      "77693"
+    ],
+    [
+      "77875",
+      "77907"
+    ],
+    [
+      "77907",
+      "77919"
+    ],
+    [
+      "77907",
+      "77761"
+    ],
+    [
+      "77907",
+      "77743"
+    ],
+    [
+      "77907",
+      "77693"
+    ],
+    [
+      "77907",
+      "77864"
+    ],
+    [
+      "77976",
+      "77761"
+    ],
+    [
+      "77976",
+      "77761"
+    ],
+    [
+      "77965",
+      "77830"
+    ],
+    [
+      "77965",
+      "77706"
+    ],
+    [
+      "77965",
+      "77849"
+    ],
+    [
+      "77965",
+      "77781"
+    ],
+    [
+      "77965",
+      "77841"
+    ],
+    [
+      "77706",
+      "77812"
+    ],
+    [
+      "77812",
+      "77674"
+    ],
+    [
+      "77812",
+      "77751"
+    ],
+    [
+      "77812",
+      "77950"
+    ],
+    [
+      "77812",
+      "77853"
+    ],
+    [
+      "77812",
+      "77693"
+    ],
+    [
+      "77812",
+      "77864"
+    ],
+    [
+      "77812",
+      "77905"
+    ],
+    [
+      "77812",
+      "77788"
+    ],
+    [
+      "77812",
+      "77829"
+    ],
+    [
+      "77812",
+      "77778"
+    ],
+    [
+      "77812",
+      "77850"
+    ],
+    [
+      "77812",
+      "77857"
+    ],
+    [
+      "77812",
+      "77856"
+    ],
+    [
+      "77849",
+      "77679"
+    ],
+    [
+      "77968",
+      "77875"
+    ],
+    [
+      "77968",
+      "77677"
+    ],
+    [
+      "77677",
+      "77955"
+    ],
+    [
+      "77955",
+      "77693"
+    ],
+    [
+      "77969",
+      "77759"
+    ],
+    [
+      "77969",
+      "77761"
+    ],
+    [
+      "77969",
+      "77761"
+    ],
+    [
+      "77969",
+      "77721"
+    ],
+    [
+      "77969",
+      "77777"
+    ],
+    [
+      "77969",
+      "77862"
+    ],
+    [
+      "77969",
+      "77905"
+    ],
+    [
+      "77963",
+      "77942"
+    ],
+    [
+      "77963",
+      "77775"
+    ],
+    [
+      "77942",
+      "77813"
+    ],
+    [
+      "77813",
+      "77919"
+    ],
+    [
+      "77813",
+      "77909"
+    ],
+    [
+      "77813",
+      "77761"
+    ],
+    [
+      "77813",
+      "77743"
+    ],
+    [
+      "77813",
+      "77693"
+    ],
+    [
+      "77813",
+      "77864"
+    ],
+    [
+      "77813",
+      "77905"
+    ],
+    [
+      "77697",
+      "77703"
+    ],
+    [
+      "77935",
+      "77703"
+    ],
+    [
+      "77972",
+      "77690"
+    ],
+    [
+      "77972",
+      "77690"
+    ],
+    [
+      "77974",
+      "77902"
+    ],
+    [
+      "77797",
+      "77740"
+    ],
+    [
+      "77880",
+      "77818"
+    ],
+    [
+      "77779",
+      "77865"
+    ],
+    [
+      "77700",
+      "77774"
+    ],
+    [
+      "77700",
+      "77774"
+    ],
+    [
+      "77700",
+      "77774"
+    ],
+    [
+      "77700",
+      "77774"
+    ],
+    [
+      "77700",
+      "77774"
+    ],
+    [
+      "77700",
+      "77774"
+    ],
+    [
+      "77700",
+      "77774"
+    ],
+    [
+      "77774",
+      "77735"
+    ],
+    [
+      "77711",
+      "77774"
+    ],
+    [
+      "77711",
+      "77774"
+    ],
+    [
+      "77711",
+      "77774"
+    ],
+    [
+      "77711",
+      "77774"
+    ],
+    [
+      "77711",
+      "77774"
+    ],
+    [
+      "77711",
+      "77774"
+    ],
+    [
+      "77711",
+      "77774"
+    ],
+    [
+      "77666",
+      "77774"
+    ],
+    [
+      "77666",
+      "77774"
+    ],
+    [
+      "77666",
+      "77774"
+    ],
+    [
+      "77666",
+      "77774"
+    ],
+    [
+      "77666",
+      "77774"
+    ],
+    [
+      "77666",
+      "77774"
+    ],
+    [
+      "77666",
+      "77774"
+    ],
+    [
+      "77666",
+      "77776"
+    ],
+    [
+      "77671",
+      "77661"
+    ],
+    [
+      "77671",
+      "77889"
+    ],
+    [
+      "77671",
+      "77750"
+    ],
+    [
+      "77671",
+      "77872"
+    ],
+    [
+      "77671",
+      "77869"
+    ],
+    [
+      "77671",
+      "77781"
+    ],
+    [
+      "77671",
+      "77669"
+    ],
+    [
+      "77671",
+      "77841"
+    ],
+    [
+      "77896",
+      "77961"
+    ],
+    [
+      "77896",
+      "77667"
+    ],
+    [
+      "77896",
+      "77967"
+    ],
+    [
+      "77896",
+      "77792"
+    ],
+    [
+      "77896",
+      "77908"
+    ],
+    [
+      "77896",
+      "77757"
+    ],
+    [
+      "77896",
+      "77848"
+    ],
+    [
+      "77896",
+      "77747"
+    ],
+    [
+      "77896",
+      "77663"
+    ],
+    [
+      "77896",
+      "77695"
+    ],
+    [
+      "77949",
+      "77958"
+    ],
+    [
+      "77949",
+      "77958"
+    ],
+    [
+      "77796",
+      "77783"
+    ],
+    [
+      "77796",
+      "77959"
+    ],
+    [
+      "77733",
+      "77699"
+    ],
+    [
+      "77783",
+      "77733"
+    ],
+    [
+      "77767",
+      "77682"
+    ],
+    [
+      "77959",
+      "77767"
+    ],
+    [
+      "77699",
+      "77826"
+    ],
+    [
+      "77826",
+      "77941"
+    ],
+    [
+      "77682",
+      "77746"
+    ],
+    [
+      "77707",
+      "77958"
+    ],
+    [
+      "77707",
+      "77958"
+    ],
+    [
+      "77958",
+      "77707"
+    ],
+    [
+      "77958",
+      "77776"
+    ],
+    [
+      "77752",
+      "77825"
+    ],
+    [
+      "77770",
+      "77712"
+    ],
+    [
+      "77770",
+      "77898"
+    ],
+    [
+      "77695",
+      "77770"
+    ],
+    [
+      "77898",
+      "77686"
+    ],
+    [
+      "77741",
+      "77895"
+    ],
+    [
+      "77748",
+      "77895"
+    ],
+    [
+      "77920",
+      "77791"
+    ],
+    [
+      "77933",
+      "77776"
+    ],
+    [
+      "77870",
+      "77787"
+    ],
+    [
+      "77879",
+      "77902"
+    ],
+    [
+      "77952",
+      "77692"
+    ],
+    [
+      "77662",
+      "77964"
+    ],
+    [
+      "77714",
+      "77910"
+    ],
+    [
+      "77715",
+      "77912"
+    ],
+    [
+      "77716",
+      "77917"
+    ],
+    [
+      "77717",
+      "77903"
+    ],
+    [
+      "77718",
+      "77948"
+    ],
+    [
+      "77719",
+      "77843"
+    ],
+    [
+      "77708",
+      "77906"
+    ],
+    [
+      "77680",
+      "77699"
+    ],
+    [
+      "77680",
+      "77682"
+    ],
+    [
+      "77925",
+      "77949"
+    ],
+    [
+      "77925",
+      "77707"
+    ],
+    [
+      "77925",
+      "77839"
+    ],
+    [
+      "77839",
+      "77958"
+    ],
+    [
+      "77839",
+      "77958"
+    ],
+    [
+      "77729",
+      "77833"
+    ],
+    [
+      "77729",
+      "77664"
+    ],
+    [
+      "77729",
+      "77806"
+    ],
+    [
+      "77729",
+      "77867"
+    ],
+    [
+      "77729",
+      "77807"
+    ],
+    [
+      "77729",
+      "77888"
+    ],
+    [
+      "77729",
+      "77819"
+    ],
+    [
+      "77729",
+      "77966"
+    ],
+    [
+      "77729",
+      "77864"
+    ],
+    [
+      "77729",
+      "77675"
+    ],
+    [
+      "77729",
+      "77824"
+    ],
+    [
+      "77729",
+      "77954"
+    ],
+    [
+      "77776",
+      "77729"
+    ],
+    [
+      "77835",
+      "77959"
+    ],
+    [
+      "77773",
+      "77929"
+    ],
+    [
+      "77773",
+      "77786"
+    ],
+    [
+      "77845",
+      "77859"
+    ],
+    [
+      "77804",
+      "77776"
+    ],
+    [
+      "77834",
+      "77902"
+    ],
+    [
+      "77832",
+      "77902"
+    ],
+    [
+      "77744",
+      "77759"
+    ],
+    [
+      "77744",
+      "77761"
+    ],
+    [
+      "77744",
+      "77761"
+    ],
+    [
+      "77744",
+      "77862"
+    ],
+    [
+      "77799",
+      "77775"
+    ],
+    [
+      "77799",
+      "77791"
+    ],
+    [
+      "77799",
+      "77957"
+    ],
+    [
+      "77775",
+      "77784"
+    ],
+    [
+      "77784",
+      "77693"
+    ],
+    [
+      "77784",
+      "77940"
+    ],
+    [
+      "77791",
+      "77691"
+    ],
+    [
+      "77691",
+      "77692"
+    ],
+    [
+      "77692",
+      "77810"
+    ],
+    [
+      "77692",
+      "77956"
+    ],
+    [
+      "77692",
+      "77864"
+    ],
+    [
+      "77692",
+      "77798"
+    ],
+    [
+      "77957",
+      "77942"
+    ],
+    [
+      "77802",
+      "77957"
+    ],
+    [
+      "77814",
+      "77805"
+    ],
+    [
+      "77814",
+      "77776"
+    ],
+    [
+      "77814",
+      "77809"
+    ],
+    [
+      "77756",
+      "77763"
+    ],
+    [
+      "77756",
+      "77970"
+    ],
+    [
+      "77758",
+      "77763"
+    ],
+    [
+      "77758",
+      "77970"
+    ],
+    [
+      "77815",
+      "77889"
+    ],
+    [
+      "77868",
+      "77889"
+    ],
+    [
+      "77889",
+      "77899"
+    ],
+    [
+      "77899",
+      "77774"
+    ],
+    [
+      "77816",
+      "77672"
+    ],
+    [
+      "77672",
+      "77750"
+    ],
+    [
+      "77750",
+      "77730"
+    ],
+    [
+      "77730",
+      "77774"
+    ],
+    [
+      "77817",
+      "77927"
+    ],
+    [
+      "77763",
+      "77929"
+    ],
+    [
+      "77763",
+      "77809"
+    ],
+    [
+      "77763",
+      "77883"
+    ],
+    [
+      "77929",
+      "77859"
+    ],
+    [
+      "77859",
+      "77735"
+    ],
+    [
+      "77809",
+      "77975"
+    ],
+    [
+      "77883",
+      "77774"
+    ],
+    [
+      "77927",
+      "77763"
+    ],
+    [
+      "77818",
+      "77970"
+    ],
+    [
+      "77970",
+      "77805"
+    ],
+    [
+      "77820",
+      "77678"
+    ],
+    [
+      "77872",
+      "77936"
+    ],
+    [
+      "77936",
+      "77774"
+    ],
+    [
+      "77678",
+      "77872"
+    ],
+    [
+      "77821",
+      "77672"
+    ],
+    [
+      "77822",
+      "77665"
+    ],
+    [
+      "77869",
+      "77937"
+    ],
+    [
+      "77937",
+      "77774"
+    ],
+    [
+      "77781",
+      "77965"
+    ],
+    [
+      "77665",
+      "77869"
+    ],
+    [
+      "77665",
+      "77781"
+    ],
+    [
+      "77823",
+      "77947"
+    ],
+    [
+      "77669",
+      "77854"
+    ],
+    [
+      "77854",
+      "77774"
+    ],
+    [
+      "77854",
+      "77795"
+    ],
+    [
+      "77841",
+      "77965"
+    ],
+    [
+      "77947",
+      "77669"
+    ],
+    [
+      "77947",
+      "77841"
+    ],
+    [
+      "77768",
+      "77780"
+    ],
+    [
+      "77772",
+      "77878"
+    ],
+    [
+      "77836",
+      "77811"
+    ],
+    [
+      "77944",
+      "77851"
+    ],
+    [
+      "77945",
+      "77842"
+    ],
+    [
+      "77887",
+      "77780"
+    ],
+    [
+      "77887",
+      "77878"
+    ],
+    [
+      "77780",
+      "77736"
+    ],
+    [
+      "77736",
+      "77906"
+    ],
+    [
+      "77878",
+      "77943"
+    ],
+    [
+      "77943",
+      "77906"
+    ],
+    [
+      "77924",
+      "77811"
+    ],
+    [
+      "77811",
+      "77852"
+    ],
+    [
+      "77852",
+      "77779"
+    ],
+    [
+      "77934",
+      "77764"
+    ],
+    [
+      "77934",
+      "77842"
+    ],
+    [
+      "77764",
+      "77754"
+    ],
+    [
+      "77764",
+      "77844"
+    ],
+    [
+      "77705",
+      "77958"
+    ],
+    [
+      "77844",
+      "77760"
+    ],
+    [
+      "77760",
+      "77964"
+    ],
+    [
+      "77760",
+      "77786"
+    ],
+    [
+      "77786",
+      "77705"
+    ],
+    [
+      "77842",
+      "77846"
+    ],
+    [
+      "77846",
+      "77779"
+    ],
+    [
+      "77742",
+      "77750"
+    ],
+    [
+      "77785",
+      "77897"
+    ],
+    [
+      "77897",
+      "77926"
+    ],
+    [
+      "77897",
+      "77683"
+    ],
+    [
+      "77897",
+      "77871"
+    ],
+    [
+      "77897",
+      "77940"
+    ],
+    [
+      "77897",
+      "77918"
+    ],
+    [
+      "77897",
+      "77753"
+    ],
+    [
+      "77884",
+      "77760"
+    ],
+    [
+      "77696",
+      "77786"
+    ],
+    [
+      "77696",
+      "77846"
+    ],
+    [
+      "77876",
+      "77698"
+    ],
+    [
+      "77874",
+      "77852"
+    ],
+    [
+      "77873",
+      "77713"
+    ],
+    [
+      "77873",
+      "77899"
+    ],
+    [
+      "77873",
+      "77730"
+    ],
+    [
+      "77873",
+      "77883"
+    ],
+    [
+      "77873",
+      "77936"
+    ],
+    [
+      "77873",
+      "77937"
+    ],
+    [
+      "77873",
+      "77781"
+    ],
+    [
+      "77873",
+      "77854"
+    ],
+    [
+      "77873",
+      "77841"
+    ],
+    [
+      "77922",
+      "77690"
+    ],
+    [
+      "77922",
+      "77690"
+    ],
+    [
+      "77962",
+      "77868"
+    ],
+    [
+      "77670",
+      "77733"
+    ],
+    [
+      "77670",
+      "77767"
+    ],
+    [
+      "77670",
+      "77707"
+    ],
+    [
+      "77827",
+      "77947"
+    ],
+    [
+      "77838",
+      "77965"
+    ],
+    [
+      "77838",
+      "77827"
+    ],
+    [
+      "77838",
+      "77803"
+    ],
+    [
+      "77838",
+      "77762"
+    ],
+    [
+      "77701",
+      "77771"
+    ],
+    [
+      "77740",
+      "77771"
+    ],
+    [
+      "77803",
+      "77789"
+    ],
+    [
+      "77803",
+      "77927"
+    ],
+    [
+      "77762",
+      "77665"
+    ],
+    [
+      "77710",
+      "77866"
+    ],
+    [
+      "77710",
+      "77855"
+    ],
+    [
+      "77710",
+      "77722"
+    ],
+    [
+      "77710",
+      "77979"
+    ],
+    [
+      "77710",
+      "77770"
+    ]
+  ]
+}
