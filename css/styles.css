@@ -271,6 +271,7 @@ footer {
   position: relative;
   width: 100%;
   padding-top: 56.25%;
+  margin-bottom: 48px;
 }
 
 .container > div {
@@ -279,6 +280,15 @@ footer {
   right: 0;
   top: 0;
   bottom: 0;
+}
+
+.container > i {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -24px;
+  font-size: 10px;
+  text-align: center;
 }
 
 .container > div > canvas {

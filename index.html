@@ -34,6 +34,7 @@
             <div>
 	            <canvas id="drosophila"/>
             </div>
+            <i>Use mouse to pan and zoom in the graph.</i>
 	    </div>
         <div class="container">
             <div>
@@ -51,7 +52,7 @@
     <script src="js/utils.js"></script>
 
     <script type="text/javascript">
-        var nodeStyle = { label: { hideSize: 16 } };
+        var nodeStyle = { label: { hideSize: 14 } };
    		var edgeStyle = { arrow: { texture: "images/arrow.png", hideSize: 2 } };
         var positive = { color: "rgb(171, 237, 199)" };
         var negative = { color: "rgb(244, 172, 164)" };
@@ -81,6 +82,7 @@
         }
 
         create("drosophila");
+        create("macrophage");
 
         window.addEventListener('resize', function() {
             graphs.forEach(function(graph) {
