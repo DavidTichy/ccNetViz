@@ -32,7 +32,7 @@
         </p>
         <div class="container">
             <div>
-	            <canvas id="example1"/>
+	            <canvas id="drosophila"/>
             </div>
 	    </div>
       </section>
@@ -43,40 +43,36 @@
 
     <script src="js/scale.fix.js"></script>
     <script src="js/ccNetViz.min.js"></script>
+    <script src="js/utils.js"></script>
 
     <script type="text/javascript">
-   		function createGraph(graph, numNodes, numEdges, nodeStyles, edgeStyles) {
-   		    var nodes = [];
-        	for (var i = 0; i < numNodes; i++) {
-                nodes.push({
-                    label: "Node " + i,
-                    style: nodeStyles && nodeStyles[Math.floor(nodeStyles.length * Math.random())]
-                });
-            }
-            var edges = [];
-            for (var i = 0; i < numNodes; i++) {
-                var source = nodes[i];
-                var map = {};
-                map[i] = true;
+   		var arrow = { texture: "images/arrow.png", hideSize: 2 };
+        var graphs = [];
 
-                for (var j = 0; j < numEdges; j++) {
-                    var target = i;
-                    while (map[target]) target = Math.floor(numNodes * Math.random());
-                    map[target] = true;
-                    edges.push({ source: source, target: nodes[target], style: edgeStyles && edgeStyles[Math.floor(edgeStyles.length * Math.random())] });
-                }
+        utils.ajax("http://davidtichy.github.io/ccNetViz/data/Drosophila.json", null, function(data) {
+            var map = data.nodes;
+            var nodes = [];
+            for (var p in map) {
+                nodes.push(map[p]);
             }
+            var edges = data.edges.map(function(e) {
+                return { source: map[e[0]], target: map[e[1]] };
+            });
+
+            var graph = new ccNetViz(document.getElementById('drosophila'), {
+                styles: {
+                    node: { label: { hideSize: 16 } },
+                    edge: { arrow: arrow },
+                    internal: { texture: "images/red.png" },
+                    external: { texture: "images/orange.png" },
+                    positive: { color: "rgb(171, 237, 199)" },
+                    negative: { color: "rgb(244, 172, 164)" }
+                }
+            });
             graph.set(nodes, edges, "force");
             graph.draw();
             graphs.push(graph);
-
-            console.log(nodes);
-            console.log(edges);
-        }
-
-        var arrow = { texture: "images/arrow.png", hideSize: 2 };
-        var graphs = [];
-        createGraph(new ccNetViz(document.getElementById('example1'), { styles: { node: { label: { hideSize: 16 } }, edge: { arrow: arrow }, oddNode: { texture: "images/red.png" }, evenNode: { texture: "images/orange.png" } } }), 500, 1, ["oddNode", "evenNode"]);
+        });
 
         window.addEventListener('resize', function() {
             graphs.forEach(function(graph) {
