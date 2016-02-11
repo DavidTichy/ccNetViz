@@ -52,25 +52,14 @@
     <script src="js/utils.js"></script>
 
     <script type="text/javascript">
-        var nodeStyle = { label: { hideSize: 14 } };
-   		var edgeStyle = { arrow: { texture: "images/arrow.png", hideSize: 2 } };
-        var positive = { color: "rgb(171, 237, 199)" };
-        var negative = { color: "rgb(244, 172, 164)" };
-
-        var styles = {
-            node: nodeStyle,
-            edge: edgeStyle,
-            internal: { texture: "images/red.png" },
-            external: { texture: "images/orange.png" },
-            positive: positive,
-            negative: negative
-        };
-
         var graphs = [];
 
-        function create(id) {
+        function create(id, styles, color, action) {
             utils.ajax("http://davidtichy.github.io/ccNetViz/data/" + id + ".json", null, function(data) {
                 var nodes = data.nodes;
+                color && (nodes = nodes.map(function(e) {
+                    return { label: e.label, style: e.style, color: color };
+                }));
                 var edges = data.edges.map(function(e) {
                     return { source: nodes[e.source], target: nodes[e.target], style: e.style }
                 });
@@ -78,11 +67,50 @@
                 graph.set(nodes, edges, "force");
                 graph.draw();
                 graphs.push(graph);
+                action && action(graph);
             });
         }
 
-        create("drosophila");
-        create("macrophage");
+        create("drosophila", {
+            node: { label: { hideSize: 14 } },
+            edge: { arrow: { texture: "images/arrow.png", hideSize: 2 } },
+            internal: { texture: "images/red.png" },
+            external: { texture: "images/orange.png" },
+            positive: { color: "rgb(171, 237, 199)" },
+            negative: { color: "rgb(244, 172, 164)" }
+        });
+        create("macrophage", {
+            background: { color: "rgb(35, 35, 35)" },
+            node: { minSize: 8, texture: "images/circle.png", label: { hideSize: 16 } },
+            edge: { color: "rgb(86, 86, 86)", arrow: { texture: "images/arrow.png", hideSize: 2 } }
+        }, new ccNetViz.color(1, 1, 1), function(graph) {
+            var def = new ccNetViz.color(1, 1, 1);
+            var colors = graph.nodes.map(function() {
+                return def;
+            });
+            var max = 20;
+            var duration = 50;
+            var nodes = {};
+
+            setInterval(function() {
+                var c = 0, remove = [];
+                for (var p in nodes) {
+                    var e = nodes[p];
+                    ++e.time > duration ? remove.push(p) : c += (duration - e.time);
+                }
+                for (var i = 0; i < remove.length; i++) {
+                    delete nodes[remove[i]];
+                }
+                Math.random() > c / (duration * max) && (nodes[Math.floor(Math.random() * colors.length)] = { time: 0 });
+
+                for (var p in nodes) {
+                    colors[p] = new ccNetViz.color(Math.abs(2*nodes[p].time / duration - 1), 1, 1);
+                }
+
+                graph.update("nodesColored", "color", colors);
+                graph.draw();
+            }, 200);
+        });
 
         window.addEventListener('resize', function() {
             graphs.forEach(function(graph) {
